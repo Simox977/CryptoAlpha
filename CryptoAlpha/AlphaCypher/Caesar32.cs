@@ -26,7 +26,7 @@ namespace AlphaCypher
             string resp = "";
 
             resp = base.Codifica(testo, spiazzamento);
-            return resp;
+            return resp;9858
         }
     }
 }
